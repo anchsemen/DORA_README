@@ -1,7 +1,4 @@
-# **Дизайн ML системы – DORA**
-*Шаблон ML System Design Doc от телеграм-канала [Reliable ML](https://t.me/reliable_ml)*
-- Рекомендации по процессу заполнения документа (workflow) - [здесь](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/ML_System_Design_Doc_Workflow.md).
-- Детальный доклад о том, что такое ML System Design Doc и о том, как, когда и зачем его составлять - [тут](https://www.youtube.com/watch?v=PW9TGNr1Vqk).
+К сожалению код предоставить нет возможности, т.к. в данный момент мы разговариваем по поводу внедрения бота в некоторые сервисы.
 
 ### **1. Цели и предпосылки** 
 #### **1.1. Зачем идем в разработку продукта?**  
